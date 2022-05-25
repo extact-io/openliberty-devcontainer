@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Attach Liberty in Container",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 7777
+        },
+    ]
+}
