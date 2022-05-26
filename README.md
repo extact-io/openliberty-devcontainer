@@ -5,7 +5,7 @@
 
 |記事| 利用内容 |
 |---|---|
-|[OpenLibertyとVSCodeによるコンテナを用いた開発環境の構築](https://developer.mamezou-tech.com/blogs/2022/xx/xx/openliberty-devcontainer/)| liberty-maven-pluginを使ったコンテナ環境のサンプル|
+|[OpenLibertyとVSCodeによるコンテナを用いた開発環境の構築](https://developer.mamezou-tech.com/blogs/2022/05/26/openliberty-devcontainer/)| liberty-maven-pluginを使ったコンテナ環境のサンプル|
 
 ## ビルドと実行
 サンプルアプリのビルドにはDocker環境とMavenが必要です
